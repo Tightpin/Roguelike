@@ -54,6 +54,6 @@
 
     - Press `v`
 
-9.  To exit at any time:
+9. To exit at any time:
 
     - Press `Esc`
