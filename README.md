@@ -36,7 +36,8 @@
 
 4. To attack:
 
-    - Move into enemies
+    - Move into enemies to melee attack
+    - Use item (see below) to fire scrolls.
 
 5. To pickup items:
 
